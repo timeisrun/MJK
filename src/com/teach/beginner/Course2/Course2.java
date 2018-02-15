@@ -56,7 +56,7 @@ public class Course2 {
 		// System.out.println("private: " + user.age);
 		System.out.println("public function: " + user.getAge());
 
-		System.out.println("new function: " + user.getname());
+		System.out.println("new function: " + user.getName());
 
 	}
 

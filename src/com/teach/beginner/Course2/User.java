@@ -2,7 +2,7 @@ package com.teach.beginner.Course2;
 
 public class User {
 
-	static public String planet = "earth";
+	static public String planet = "Earth";
 	public String name = "¤p©ú";
 	public int weight = 60;
 	protected int height = 173;
